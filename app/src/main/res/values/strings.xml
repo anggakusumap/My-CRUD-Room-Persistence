@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidRoomPersistenceCRUD</string>
+    <string name="title_activity_main2">List Mahasiswa TI</string>
+
+    <string name="hint_mahasiswa_name">Nama Mahasiswa</string>
+    <string name="empty_not_saved_pname">Student not saved because it is empty.</string>
+
+    <string name="hint_mahasiswa_email">Email Mahasiswa</string>
+    <string name="empty_not_saved_email">Mahasiswa not saved because it is empty.</string>
+
+    <string name="hint_mahasiswa_nim">NIM Mahasiswa</string>
+    <string name="empty_not_saved_nim">Mahasiswa not saved because it is empty.</string>
+
+
+    <string name="button_save">Simpan Data Mahasiswa</string>
+</resources>
